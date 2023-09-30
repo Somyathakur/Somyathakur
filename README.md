@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Somyathakur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m passionate about Web Development, HTML, CSS and more.
+- 🌱 I love creating websites.
+- 💞️ I’m looking to collaborate on Instagram
+- 📫 I enjoy sharing my knowledge with coding community
+- 📒 You will a respitories of all project and code samples.
 
 <!---
 Somyathakur/Somyathakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
